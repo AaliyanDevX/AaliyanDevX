@@ -1,37 +1,35 @@
-<h1 align="center">Hey there 👋, I'm Ahmed Aaliyan</h1>
+# Hey there 👋, I'm Ahmed Aaliyan
 
-<p align="center">
-  Front-End Developer | UI Enthusiast | Currently learning and building cool web experiences!  
-</p>
+**Front-End Developer** | UI Enthusiast | Learning and building cool web experiences!
 
 ---
 
-### 🚀 **Tech I’m Currently Learning**:
+### 🚀 **Tech I'm Learning**:
 - **Core**: HTML, CSS, JavaScript  
 - **Frameworks**: React, Next.js  
 - **Tools**: Vite, Replit, Git, GitHub  
 - **Animations**: Framer Motion, GSAP  
-- **3D Magic**: Three.js (still exploring)  
+- **3D**: Three.js (still exploring)  
 - **Typing Strong**: TypeScript
 
 ---
 
 ### 🔭 **What I'm Building & Learning**:
-- 🚀 Exploring **React** with hands-on projects to build dynamic, interactive UIs.  
-- 🧑‍💻 Learning **Git** and **GitHub** workflows: commits, branches, and pull requests.  
-- 🔨 Working on my **portfolio** to showcase all my projects and skills.  
-- 🎬 Diving into **Framer Motion** and **GSAP** for animations to make websites pop!  
-- 🔮 Experimenting with **Three.js** to create interactive 3D elements for web apps.  
+- 🚀 Building dynamic, interactive UIs with **React**  
+- 🧑‍💻 Learning **Git** workflows: commits, branches, PRs  
+- 🔨 Working on my **portfolio** to showcase my skills  
+- 🎬 Creating animations with **Framer Motion** and **GSAP**  
+- 🔮 Experimenting with **Three.js** for interactive 3D elements  
 
 ---
 
 ### 💡 **Goals**:
-- Master modern front-end tools & frameworks.  
-- Contribute to open source and build real-world projects.  
-- Create a polished **personal portfolio** with all my projects in one place.  
+- Master modern front-end tools and frameworks  
+- Contribute to open source and build real-world projects  
+- Polish my **personal portfolio** with all my projects in one place
 
 ---
 
-### 🔒 **Silent Learning Mode**:
-I'm not posting much yet... but once I have something cool to share, you’ll see it! 👀  
+### 🔒 **Silent Learning Mode**  
+I'm not posting much yet, but once I have something cool to share, you'll see it! 👀  
 Stay tuned for the big reveal 🚀
