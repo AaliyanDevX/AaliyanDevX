@@ -2,7 +2,6 @@
 
 <p align="center">
   Front-End Developer | UI Enthusiast | Currently learning and building cool web experiences!  
-  <br> Pronouns: He/Him 
 </p>
 
 ---
